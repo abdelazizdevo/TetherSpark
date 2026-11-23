@@ -1,0 +1,27 @@
+{
+  "name": "tetherdesk",
+  "productName": "TetherSpark",
+  "version": "0.2.2",
+  "description": "Share a Windows PC's internet with Android over USB",
+  "main": "src/main.cjs",
+  "author": "TetherSpark contributors",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "build:icons": "electron scripts/build-icons.cjs",
+    "setup": "node scripts/setup.cjs",
+    "test": "node --test tests/*.test.cjs",
+    "check": "node scripts/check.cjs",
+    "smoke": "node scripts/smoke.cjs",
+    "verify:tools": "node scripts/verify-tools.cjs",
+    "package": "node scripts/package.cjs"
+  },
+  "devDependencies": {
+    "@electron/packager": "^20.3.0",
+    "electron": "^45.4.1",
+    "playwright": "^1.65.1"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
