@@ -1,0 +1,10 @@
+Generated with the built-in image_gen tool.
+
+Use case: logo-brand.
+Create one polished professional logo for TetherSpark, a Windows desktop app that shares a PC's internet connection with an Android phone over USB.
+Asset: a finished horizontal logo lockup, standalone symbol on the left and the wordmark on the right, on a genuinely transparent background.
+Symbol: a distinctive, beautifully balanced curved USB cable forming a flowing S-like gesture, ending in a small four-point spark. Integrate the spark into the cable silhouette so it feels like one original mark. Include a subtle recognizable USB connector at the other end. Use confident rounded geometric forms, elegant negative space, very few details, and strong recognition at app-icon sizes.
+Aesthetic: premium modern software brand, friendly Material You geometry, crisp flat vector-like execution, restrained and memorable. Avoid looking like an electrical charging company or a generic Wi-Fi logo.
+Palette: periwinkle indigo #4B58D3, with a restrained soft lavender #BFC3FF accent. Wordmark in a medium periwinkle-indigo that reads well on both light and dark backgrounds.
+Exact text, rendered once: "TetherSpark". Precise spelling and capitalization. Custom-looking modern geometric sans serif inspired by Inter, medium/semibold weight, carefully kerned, soft rounded character. Symbol and wordmark have harmonious optical weight.
+Composition: generous but controlled whitespace, aligned horizontal lockup, approximately 3:1 wide layout, clean silhouette, no decorative border. No slogan, no extra text, no mockup, no presentation board, no palette swatches, no 3D, no bevels, no shadows, no gradients, no watermark. Actual transparent alpha background, not a checkerboard drawn into the image.

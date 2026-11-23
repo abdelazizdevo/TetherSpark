@@ -1,0 +1,8 @@
+Icon master generated with the built-in image_gen tool from tetherspark-logo-v1.png.
+Windows ICO sizes exported with Electron nativeImage without changing the artwork.
+
+Use case: precise-object-edit / logo-brand.
+Edit target: the attached approved TetherSpark logo.
+Create a standalone square app-icon master using ONLY the USB cable S-shaped symbol and its lavender four-point spark from the left side of this exact logo. Remove the entire TetherSpark wordmark and all text.
+Preserve the approved symbol's identity: same flowing S cable curve, same USB-A connector at lower left, same four-point lavender spark at upper right, same periwinkle-indigo and lavender colors, same soft geometric construction and visual proportions. Do not invent a new symbol or add details.
+Center the isolated symbol in a square canvas, large enough to fill approximately 82% of the width and height, with balanced transparent padding for Windows icon sizes. Crisp clean edges, strong silhouette, high resolution. Actual transparent alpha background. No app tile, no white or colored background, no labels, no decorative frame, no shadow, no mockup, no added text.
